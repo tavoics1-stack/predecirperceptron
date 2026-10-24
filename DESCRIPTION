@@ -1,0 +1,8 @@
+Package: predecirperceptron
+Type: Package
+Title: Perceptron Simple
+Version: 0.1.0
+Authors@R: person("Gustavo", "Chaglla", email = "238891249+tavoics1-stack@users.noreply.github.com", role = c("aut", "cre"))
+Description: Funcion del ejercicio de perceptron simple.
+License: GPL-3
+Encoding: UTF-8
